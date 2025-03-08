@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HerhOefBoerderij.Cui")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bec43c0309ef3efd08f541900ea5e19b238cb85")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c48dd53afdfd0d4d68b4351fca57bb802623f02e")]
 [assembly: System.Reflection.AssemblyProductAttribute("HerhOefBoerderij.Cui")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HerhOefBoerderij.Cui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
