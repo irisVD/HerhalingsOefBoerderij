@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/StartUp/HerhOefBoerderij.StartUp.csproj",
+      "projectUniqueName": "/Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/HerhOefBoerderij.StartUp/HerhOefBoerderij.StartUp.csproj",
       "projectName": "HerhOefBoerderij.StartUp",
-      "projectPath": "/Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/StartUp/HerhOefBoerderij.StartUp.csproj",
+      "projectPath": "/Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/HerhOefBoerderij.StartUp/HerhOefBoerderij.StartUp.csproj",
       "packagesPath": "/Users/irisvandamme/.nuget/packages/",
-      "outputPath": "/Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/StartUp/obj/",
+      "outputPath": "/Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/HerhOefBoerderij.StartUp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/irisvandamme/.nuget/NuGet/NuGet.Config"

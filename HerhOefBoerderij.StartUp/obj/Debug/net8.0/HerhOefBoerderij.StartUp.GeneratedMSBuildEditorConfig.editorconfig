@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HerhOefBoerderij.StartUp
-build_property.ProjectDir = /Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/StartUp/
+build_property.ProjectDir = /Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/HerhOefBoerderij.StartUp/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

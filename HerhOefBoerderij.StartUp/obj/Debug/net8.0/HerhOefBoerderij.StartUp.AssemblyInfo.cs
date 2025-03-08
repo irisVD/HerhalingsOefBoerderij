@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HerhOefBoerderij.StartUp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c48dd53afdfd0d4d68b4351fca57bb802623f02e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0aa5cdf79b4ec9b6e42dc8083499941bb928c508")]
 [assembly: System.Reflection.AssemblyProductAttribute("HerhOefBoerderij.StartUp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HerhOefBoerderij.StartUp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
