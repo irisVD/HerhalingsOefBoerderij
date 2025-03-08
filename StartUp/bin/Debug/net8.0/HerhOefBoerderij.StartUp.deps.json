@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HerhOefBoerderij.StartUp/1.0.0": {
+        "dependencies": {
+          "HerhOefBoerderij.Cui": "1.0.0"
+        },
+        "runtime": {
+          "HerhOefBoerderij.StartUp.dll": {}
+        }
+      },
+      "HerhOefBoerderij.Cui/1.0.0": {
+        "runtime": {
+          "HerhOefBoerderij.Cui.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HerhOefBoerderij.StartUp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HerhOefBoerderij.Cui/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
