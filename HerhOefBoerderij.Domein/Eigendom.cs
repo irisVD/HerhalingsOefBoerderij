@@ -1,6 +1,6 @@
 using System;
 
-namespace HerhOefBoerderij.StartUp;
+namespace HerhOefBoerderij.Domein;
 
 public class Eigendom
 {
@@ -13,7 +13,7 @@ public class Eigendom
     public string Naam { get; set; }
     protected double Kost { get; set; }
 
-    public double BerekenOpbrengst(){
+    public virtual double BerekenOpbrengst(){
         throw new NotImplementedException();
     }
 
