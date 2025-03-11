@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HerhOefBoerderij.Domein")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de2278e31f3bf2b7dc26b70857cc6e051cb4f3e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65005637af4e4f8987ea777eec88e2a3fdeb4c14")]
 [assembly: System.Reflection.AssemblyProductAttribute("HerhOefBoerderij.Domein")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HerhOefBoerderij.Domein")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
