@@ -21,7 +21,7 @@ public class Eigendom
 
     public override string ToString()
     {
-        return String.Format("{0} \"Achteraan\" met kost {1}.", this.GetType().Name, Kost);
+        return String.Format("{0} \"{1}\" met kost {2}.", this.GetType().Name, Naam, Kost);
     }
 
 
