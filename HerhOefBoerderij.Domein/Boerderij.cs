@@ -19,10 +19,12 @@ public class Boerderij
 
     public double BerekenWinst()
     {
-        throw new NotImplementedException();
+        double opbrengstEigendommen = Eigendommen.Aggregate(0.0, (acc, x) => acc + x.BerekenOpbrengst());
+        double lonenPersonen = Personen.Aggregate(0.0, (acc, y) => acc + y.BerekenLoonKost());
+        return opbrengstEigendommen - lonenPersonen;
     }
     public override string ToString()
     {
-        throw new NotImplementedException();
+        return String.Format("{0} ({1}) met winst {2}.", Naam, BTWNummer, BerekenWinst());
     }
 }
