@@ -4,7 +4,7 @@ namespace HerhOefBoerderij.Domein;
 
 public class Melkerij : Eigendom
 {
-    public int AantalKoeien { get; set; }
+    public readonly int AantalKoeien;
     public Melkerij(string naam, double kost, int aantalKoeien) : base(naam, kost)
     {
         AantalKoeien = aantalKoeien;
@@ -12,6 +12,6 @@ public class Melkerij : Eigendom
 
     public override double BerekenOpbrengst()
     {
-        throw new NotImplementedException();
+        return (AantalKoeien * 300) - base.Kost;
     }
 }

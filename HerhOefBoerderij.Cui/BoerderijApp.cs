@@ -13,5 +13,8 @@ public class BoerderijApp
         Boerderij boerderij = new Boerderij("boerderij1", "45349255647", new List<Persoon>{{persoon}}, new List<Eigendom>{{eigendom}});
 
         System.Console.WriteLine(eigendom);
+
+        Eigendom melkerij = new Melkerij("Melkerij1", 1200, 13);
+        System.Console.WriteLine("Opbrengst melkerij: " + melkerij.BerekenOpbrengst());
     }
 }
