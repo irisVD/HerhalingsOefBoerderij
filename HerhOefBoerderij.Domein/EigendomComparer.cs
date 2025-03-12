@@ -5,6 +5,7 @@ namespace HerhOefBoerderij.Domein;
 public class EigendomComparer
 {
     public int Compare(Eigendom x, Eigendom y){
-        throw new NotImplementedException();
+        // check if name is equal
+        return x.Naam.CompareTo(y.Naam);
     }
 }
