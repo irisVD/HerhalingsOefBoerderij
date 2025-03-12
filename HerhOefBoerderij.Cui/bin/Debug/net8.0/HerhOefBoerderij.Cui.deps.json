@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "HerhOefBoerderij.Cui/1.0.0": {
+        "dependencies": {
+          "HerhOefBoerderij.Domein": "1.0.0"
+        },
         "runtime": {
           "HerhOefBoerderij.Cui.dll": {}
+        }
+      },
+      "HerhOefBoerderij.Domein/1.0.0": {
+        "runtime": {
+          "HerhOefBoerderij.Domein.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "HerhOefBoerderij.Cui/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HerhOefBoerderij.Domein/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -10,3 +10,7 @@
 /Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/HerhOefBoerderij.Cui/obj/Debug/net8.0/refint/HerhOefBoerderij.Cui.dll
 /Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/HerhOefBoerderij.Cui/obj/Debug/net8.0/HerhOefBoerderij.Cui.pdb
 /Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/HerhOefBoerderij.Cui/obj/Debug/net8.0/ref/HerhOefBoerderij.Cui.dll
+/Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/HerhOefBoerderij.Cui/bin/Debug/net8.0/HerhOefBoerderij.Domein.dll
+/Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/HerhOefBoerderij.Cui/bin/Debug/net8.0/HerhOefBoerderij.Domein.pdb
+/Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/HerhOefBoerderij.Cui/obj/Debug/net8.0/HerhOefBoerderij.Cui.csproj.AssemblyReference.cache
+/Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/HerhOefBoerderij.Cui/obj/Debug/net8.0/HerhOefB.6F0425BA.Up2Date

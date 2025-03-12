@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "HerhOefBoerderij.Domein/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/HerhOefBoerderij.Domein.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HerhOefBoerderij.Domein.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "HerhOefBoerderij.Domein/1.0.0": {
+      "type": "project",
+      "path": "../HerhOefBoerderij.Domein/HerhOefBoerderij.Domein.csproj",
+      "msbuildProject": "../HerhOefBoerderij.Domein/HerhOefBoerderij.Domein.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "HerhOefBoerderij.Domein >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/irisvandamme/.nuget/packages/": {}
@@ -32,7 +51,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/HerhOefBoerderij.Domein/HerhOefBoerderij.Domein.csproj": {
+              "projectPath": "/Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/HerhOefBoerderij.Domein/HerhOefBoerderij.Domein.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

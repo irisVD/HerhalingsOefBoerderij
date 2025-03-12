@@ -36,3 +36,5 @@
 /Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/HerhOefBoerderij.StartUp/obj/Debug/net8.0/HerhOefBoerderij.StartUp.pdb
 /Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/HerhOefBoerderij.StartUp/obj/Debug/net8.0/HerhOefBoerderij.StartUp.genruntimeconfig.cache
 /Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/HerhOefBoerderij.StartUp/obj/Debug/net8.0/ref/HerhOefBoerderij.StartUp.dll
+/Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/HerhOefBoerderij.StartUp/bin/Debug/net8.0/HerhOefBoerderij.Domein.dll
+/Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/HerhOefBoerderij.StartUp/bin/Debug/net8.0/HerhOefBoerderij.Domein.pdb

@@ -1,0 +1,12 @@
+/Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/HerhOefBoerderij.Domein/bin/Debug/net8.0/HerhOefBoerderij.Domein.deps.json
+/Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/HerhOefBoerderij.Domein/bin/Debug/net8.0/HerhOefBoerderij.Domein.dll
+/Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/HerhOefBoerderij.Domein/bin/Debug/net8.0/HerhOefBoerderij.Domein.pdb
+/Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/HerhOefBoerderij.Domein/obj/Debug/net8.0/HerhOefBoerderij.Domein.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/HerhOefBoerderij.Domein/obj/Debug/net8.0/HerhOefBoerderij.Domein.AssemblyInfoInputs.cache
+/Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/HerhOefBoerderij.Domein/obj/Debug/net8.0/HerhOefBoerderij.Domein.AssemblyInfo.cs
+/Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/HerhOefBoerderij.Domein/obj/Debug/net8.0/HerhOefBoerderij.Domein.csproj.CoreCompileInputs.cache
+/Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/HerhOefBoerderij.Domein/obj/Debug/net8.0/HerhOefBoerderij.Domein.sourcelink.json
+/Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/HerhOefBoerderij.Domein/obj/Debug/net8.0/HerhOefBoerderij.Domein.dll
+/Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/HerhOefBoerderij.Domein/obj/Debug/net8.0/refint/HerhOefBoerderij.Domein.dll
+/Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/HerhOefBoerderij.Domein/obj/Debug/net8.0/HerhOefBoerderij.Domein.pdb
+/Users/irisvandamme/Documents/Graduaat programmeren/2de sem mac 2025/Prog gevorderd 2/Oefeningen/HerhOefBoerderij/HerhOefBoerderij.Domein/obj/Debug/net8.0/ref/HerhOefBoerderij.Domein.dll

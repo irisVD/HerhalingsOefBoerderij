@@ -15,8 +15,19 @@
         }
       },
       "HerhOefBoerderij.Cui/1.0.0": {
+        "dependencies": {
+          "HerhOefBoerderij.Domein": "1.0.0"
+        },
         "runtime": {
           "HerhOefBoerderij.Cui.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "HerhOefBoerderij.Domein/1.0.0": {
+        "runtime": {
+          "HerhOefBoerderij.Domein.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -31,6 +42,11 @@
       "sha512": ""
     },
     "HerhOefBoerderij.Cui/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HerhOefBoerderij.Domein/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

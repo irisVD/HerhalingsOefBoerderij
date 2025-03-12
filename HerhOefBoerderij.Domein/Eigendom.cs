@@ -21,8 +21,7 @@ public class Eigendom
 
     public override string ToString()
     {
-        throw new NotImplementedException();
-        // geeft dynamisch type van het object toe, gevolgd door de naam en kost
+        return String.Format("{0} \"Achteraan\" met kost {1}.", this.GetType().Name, Kost);
     }
 
 
